@@ -5,7 +5,7 @@ Turn any personal goal into a clear 30-day habit plan with daily tasks, weekly c
 ---
 
 ## 📌 Project Goal
-Help users transform any personal goal into a simple, personalized habit routine by generating a complete 30-day plan with daily tasks, weekly checkpoints, streak tracking, and motivational messages.  
+Help users transform any personal goal into a simple, personalized habit routine by generating a complete 30-day plan with daily tasks, weekly checkpoints, streak tracking, and motivational messages.
 This app makes habit-building easy, clear, and consistent using AI.
 
 ---
@@ -13,7 +13,7 @@ This app makes habit-building easy, clear, and consistent using AI.
 ## 🚀 Core Features
 
 ### **1) Input Form**
-- Goal input (e.g., “Learn JavaScript”, “Lose weight”, “Wake up early”)
+- Goal input (e.g., "Learn JavaScript", "Lose weight", "Wake up early")
 - Target duration (7 / 14 / 30 days — default 30)
 - Habit difficulty (easy, medium, hard)
 - Preferred time of day (morning / evening / custom)
@@ -52,7 +52,7 @@ This app makes habit-building easy, clear, and consistent using AI.
 
 ### **5) Motivation & Coaching**
 - Daily motivational notifications
-- AI-based “End of day reflection” prompts
+- AI-based "End of day reflection" prompts
 - Adaptive plan adjustments if user misses multiple days
 - Habit strength score (1–100)
 - Weekly encouragement cards
@@ -70,7 +70,7 @@ This app makes habit-building easy, clear, and consistent using AI.
 ### **7) Lead Capture**
 - Email required before exporting PDF/Notion
 - Save plans to user account
-- Optional newsletter (“Daily Habit Tips”)
+- Optional newsletter ("Daily Habit Tips")
 - Optional admin analytics dashboard
 
 ---
@@ -102,12 +102,12 @@ This app makes habit-building easy, clear, and consistent using AI.
 ## 🎨 Design Layout
 
 ### **Landing Page**
-- Header: Logo | Features | About | CTA  
-- Hero section with headline, subheadline, demo preview  
-- Features (3 columns): Personalized | Consistent | AI-Powered  
-- How It Works (3 steps)  
-- Success stories + testimonials  
-- Footer: links, social icons, contact  
+- Header: Logo | Features | About | CTA
+- Hero section with headline, subheadline, demo preview
+- Features (3 columns): Personalized | Consistent | AI-Powered
+- How It Works (3 steps)
+- Success stories + testimonials
+- Footer: links, social icons, contact
 
 ---
 
@@ -137,19 +137,19 @@ This app makes habit-building easy, clear, and consistent using AI.
 ## 📝 Input Form (Multi-step)
 
 ### **Step 1: Define Habit**
-- Goal input  
-- Reason behind the goal  
-- Preferred time  
+- Goal input
+- Reason behind the goal
+- Preferred time
 
 ### **Step 2: Personalization**
-- Difficulty level  
-- Duration (7/14/30 days)  
-- Extra context  
+- Difficulty level
+- Duration (7/14/30 days)
+- Extra context
 
 ### **Step 3: Preview & Confirm**
-- Summary preview  
-- Sample daily tasks  
-- Regenerate preview  
+- Summary preview
+- Sample daily tasks
+- Regenerate preview
 
 Final: **Generate Plan**
 
@@ -157,14 +157,13 @@ Final: **Generate Plan**
 
 ## 🔄 User Flow
 
-1. User lands and sees value proposition  
-2. Clicks **Create Habit Plan**  
-3. Completes multi-step form  
-4. AI generates habit plan  
-5. User customizes tasks  
-6. User saves the plan to dashboard  
-7. User checks-in daily → streak grows  
+1. User lands and sees value proposition
+2. Clicks **Create Habit Plan**
+3. Completes multi-step form
+4. AI generates habit plan
+5. User customizes tasks
+6. User saves the plan to dashboard
+7. User checks-in daily → streak grows
 8. User exports PDF or Notion (email captured)
 
 ---
-
